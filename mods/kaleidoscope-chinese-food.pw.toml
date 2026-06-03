@@ -1,0 +1,13 @@
+name = "Kaleidoscope Chinese Food"
+filename = "kaleidoscope_chinesefood-1.0.3-neoforge+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2b3bbbed449a026d2e45cb1a09d13ef750d6acf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8117421
+project-id = 1479951

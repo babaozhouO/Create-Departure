@@ -1,0 +1,13 @@
+name = "Maid Restaurant"
+filename = "maid_restaurant-0.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ebe6ece99d838d9adf028cdbe3e4575429d5963"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7688921
+project-id = 1467057

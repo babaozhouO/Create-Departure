@@ -1,0 +1,13 @@
+name = "Beyond Dimensions"
+filename = "beyonddimensions-1.21.1-neoforge-0.7.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4845be5834268c0cca7f74cadb8f390ba197872e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7955731
+project-id = 1222890

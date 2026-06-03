@@ -1,0 +1,13 @@
+name = "Kaleidoscope End"
+filename = "kaleidoscope_end-1.0.8-neoforge+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97dc5dbe3e69f2ab04e45a97492b75a23d04a15f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8030789
+project-id = 1456076

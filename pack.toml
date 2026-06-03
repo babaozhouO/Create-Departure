@@ -1,0 +1,12 @@
+name = "Create Departure"
+version = "1.0.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "97555df7957d99c35207ba8b4901a83092c6995a85aae536a0583ea044cf10fa"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"

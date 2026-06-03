@@ -1,0 +1,13 @@
+name = "Create: Creator Sword"
+filename = "creatorsword-0.2.7b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fab7c0a5dba06cdad9893681fc980a49cb6ec7d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8095852
+project-id = 1269043

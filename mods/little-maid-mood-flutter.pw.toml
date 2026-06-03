@@ -1,0 +1,13 @@
+name = "Little Maid: Mood Flutter"
+filename = "touhou_little_mad-0.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GTO2209U/versions/InC03JYI/touhou_little_mad-0.2-beta.jar"
+hash-format = "sha512"
+hash = "62a66508c2202ae04ca1fb5420a04aa08f269d5c0dffe1ef5dc717608a28cae78735dfb794c60e0ba1566faa136b73e9a22128de0f4dd8392c912572ef9c3836"
+
+[update]
+[update.modrinth]
+mod-id = "GTO2209U"
+version = "InC03JYI"

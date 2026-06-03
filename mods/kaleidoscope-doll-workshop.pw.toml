@@ -1,0 +1,13 @@
+name = "Kaleidoscope Doll Workshop"
+filename = "kaleidoscope_doll_workshop-1.0.4-neoforge+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26d76dccf44cd139991b793bc820bfe0d9ba83a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7594083
+project-id = 1423684

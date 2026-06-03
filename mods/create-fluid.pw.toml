@@ -1,0 +1,13 @@
+name = "Create: Fluid"
+filename = "fluid-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "101b5a14e2ae32fdcb34fefe2f9480c2025bfca5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7957206
+project-id = 1346709

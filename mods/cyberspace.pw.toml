@@ -1,0 +1,13 @@
+name = "Cyberspace"
+filename = "Cyberspace 4.0.2 (NF1.21.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8f4b63e746e0f0c5250654403d5d77d77487cf0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8032319
+project-id = 1206890

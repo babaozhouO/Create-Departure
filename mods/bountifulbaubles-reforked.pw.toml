@@ -1,0 +1,13 @@
+name = "BountifulBaubles:Reforked"
+filename = "bountifulbaubles-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3952088f305dda3607e42ced8a99d02151e645d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6939220
+project-id = 1204229

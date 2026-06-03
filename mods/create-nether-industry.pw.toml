@@ -1,0 +1,13 @@
+name = "Create: Nether Industry"
+filename = "createnetherindustry-0.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "451b43fb3a019b44b7423e56a987e4e5be52c201"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7239154
+project-id = 1276897

@@ -1,0 +1,13 @@
+name = "BaublesReforked"
+filename = "baublesreforked-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74ee5691d6c2152e6aee2893a4b3bcdc3dd21b65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7683372
+project-id = 1249780
